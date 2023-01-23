@@ -12,3 +12,13 @@ Scale 1 - 5
 
 ## Multiple modalities (sensor fusion) 
 - [See, Hear, and Feel: Smart Sensory Fusion for Robotic Manipulation](https://arxiv.org/pdf/2212.03858.pdf) CoRL, 2022 (3)
+
+
+## Visual pre-training for robotic control
+- [R3M: A Universal Visual Representation for Robot Manipulation](https://arxiv.org/pdf/2203.12601.pdf) CoRL, 2022 (2)
+- [Real-World Robot Learning with Masked Visual Pre-training](https://arxiv.org/pdf/2210.03109.pdf) CoRL, 2022 (2)
+
+
+## Sub-section
+- [Learning Visual Feedback Control for Dynamic Cloth Folding](https://arxiv.org/pdf/2109.04771.pdf) IROS, 2022 (0)
+- [Multi-View Picking:Next-best-view Reaching for Improved Grasping in Clutter](https://arxiv.org/pdf/1809.08564.pdf) ICRA, 2019 (2)
