@@ -21,4 +21,6 @@ Scale 1 - 5
 
 ## Sub-section
 - [Learning Visual Feedback Control for Dynamic Cloth Folding](https://arxiv.org/pdf/2109.04771.pdf) IROS, 2022 (0)
-- [Multi-View Picking:Next-best-view Reaching for Improved Grasping in Clutter](https://arxiv.org/pdf/1809.08564.pdf) ICRA, 2019 (2)
+- [Multi-View Picking:Next-best-view Reaching for Improved Grasping in Clutter](https://arxiv.org/pdf/1809.08564.pdf) ICRA, 2019 (0)
+- [Learning to Singulate Layers of Cloth using Tactile Feedback](https://arxiv.org/pdf/2207.11196.pdf) IROS, 2022 (0)
+- [On the Importance of Hyperparameter Optimization for Model-based Reinforcement Learning](https://uploads-ssl.webflow.com/5fff4548d36c864953f1e663/6046c8120fdcd77fcb835cda_2102.13651.pdf) AISTATS, 2021 (0)
