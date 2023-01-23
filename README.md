@@ -10,5 +10,5 @@ Scale 1 - 5
 
 # Section
 
-## Sub-Section
+## Multiple modalities (sensor fusion) 
 - [See, Hear, and Feel: Smart Sensory Fusion for Robotic Manipulation](https://arxiv.org/pdf/2212.03858.pdf) CoRL, 2022 (3)
