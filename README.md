@@ -11,7 +11,7 @@ Scale 1 - 5
 # Section
 
 ## Multiple modalities (sensor fusion) 
-- [See, Hear, and Feel: Smart Sensory Fusion for Robotic Manipulation](https://arxiv.org/pdf/2212.03858.pdf) CoRL, 2022 (3)
+- [See, Hear, and Feel: Smart Sensory Fusion for Robotic Manipulation](https://arxiv.org/pdf/2212.03858.pdf) CoRL, 2022 (3) [[notes](https://github.com/Asad-Shahid/Papers/blob/24ee702dac15b8506da9429601220f773198ffe6/Smart%20Sensory%20Fusion%20for%20Robotic%20Manipulation.md)]
 
 
 ## Visual pre-training for robotic control
