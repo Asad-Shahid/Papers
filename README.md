@@ -21,6 +21,7 @@ Scale 1 - 5
 
 ## Sub-section
 - [A Learning Approach to Robot-Agnostic Force-Guided High Precision Assembly](https://arxiv.org/pdf/2010.08052.pdf) IROS, 2021 (1)
+- [Sim-to-Real Transfer for Robotic Manipulation with Tactile Sensory](https://arxiv.org/pdf/2103.00410.pdf) IROS, 2021 (2)
 - [Learning Visual Feedback Control for Dynamic Cloth Folding](https://arxiv.org/pdf/2109.04771.pdf) IROS, 2022 (0)
 - [Multi-View Picking:Next-best-view Reaching for Improved Grasping in Clutter](https://arxiv.org/pdf/1809.08564.pdf) ICRA, 2019 (0)
 - [Learning to Singulate Layers of Cloth using Tactile Feedback](https://arxiv.org/pdf/2207.11196.pdf) IROS, 2022 (0)
