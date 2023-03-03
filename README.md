@@ -26,7 +26,5 @@ Scale 1 - 5
 - [Multi-View Picking:Next-best-view Reaching for Improved Grasping in Clutter](https://arxiv.org/pdf/1809.08564.pdf) ICRA, 2019 (0)
 - [Learning to Singulate Layers of Cloth using Tactile Feedback](https://arxiv.org/pdf/2207.11196.pdf) IROS, 2022 (0)
 - [On the Importance of Hyperparameter Optimization for Model-based Reinforcement Learning](https://uploads-ssl.webflow.com/5fff4548d36c864953f1e663/6046c8120fdcd77fcb835cda_2102.13651.pdf) AISTATS, 2021 (0)
-- [Deep Reinforcement Learning for Next-Best-View Planning in Agricultural Applications](https://ieeexplore.ieee.org/
-stamp/stamp.jsp?tp=&arnumber=9811800) ICRA, 2022 (0)
-- [Whole-Body Control of a Mobile Manipulator using End-to-End Reinforcement Learning]
-(http://jenjenchung.github.io/anthropomorphic/Papers/Kindle2020whole.pdf) arxiv, 2020 (0)
+- [Deep Reinforcement Learning for Next-Best-View Planning in Agricultural Applications](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9811800) ICRA, 2022 (0)
+- [Whole-Body Control of a Mobile Manipulator using End-to-End Reinforcement Learning](http://jenjenchung.github.io/anthropomorphic/Papers/Kindle2020whole.pdf) arxiv, 2020 (0)
