@@ -31,3 +31,4 @@ Scale 1 - 5
 
 ## Transfer
 - [Skill Transfer via Partially Amortized Hierarchical Planning](https://arxiv.org/pdf/2011.13897.pdf) ICLR, 2021 (1)
+- [REvolveR: Continuous Evolutionary Models for Robot-to-robot Policy Transfer](https://arxiv.org/pdf/2202.05244.pdf) ICML, 2022 (0)
