@@ -1,6 +1,6 @@
 ### Overall Idea
 
-- Learn a policy to through and catch objects using MAPPO with each hand being one agent.
+- Learn a policy to throw and catch objects using MAPPO with each hand being one agent.
 - Domain randomization to randomize friction, inertia, contact force center of mass, etc.
 
 ### Novel Contribution
