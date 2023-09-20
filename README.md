@@ -11,13 +11,15 @@ Scale 1 - 5
 # Section
 
 ## Multiple modalities (sensor fusion) 
-- [See, Hear, and Feel: Smart Sensory Fusion for Robotic Manipulation](https://arxiv.org/pdf/2212.03858.pdf) CoRL, 2022 (3) [[notes](https://github.com/Asad-Shahid/Papers/blob/612d066655077b1d6a2c888dde2c6bb73e8e7ee1/Smart%20Sensory%20Fusion%20for%20Robotic%20Manipulation.md)]
+- [See, Hear, and Feel: Smart Sensory Fusion for Robotic Manipulation](https://arxiv.org/pdf/2212.03858.pdf) CoRL, 2022 (3) [[notes](https://github.com/Asad-Shahid/Papers/blob/main/Notes/Smart%20Sensory%20Fusion%20for%20Robotic%20Manipulation.md)]
 
 
 ## Visual pre-training for robotic control
 - [R3M: A Universal Visual Representation for Robot Manipulation](https://arxiv.org/pdf/2203.12601.pdf) CoRL, 2022 (2)
 - [Real-World Robot Learning with Masked Visual Pre-training](https://arxiv.org/pdf/2210.03109.pdf) CoRL, 2022 (2)
 
+ ## Multi-Agent RL
+- [Dynamic Handover: Throw and Catch with Bimanual Hands](https://binghao-huang.github.io/dynamic_handover/) CoRL, 2023 (4) [[notes](https://github.com/Asad-Shahid/Papers/blob/main/Notes/Dynamic%20Handover%3A%20Throw%20and%20Catch%20with%20Bimanual%20Hands.md)]
 
 ## Sub-section
 - [A Learning Approach to Robot-Agnostic Force-Guided High Precision Assembly](https://arxiv.org/pdf/2010.08052.pdf) IROS, 2021 (1)
