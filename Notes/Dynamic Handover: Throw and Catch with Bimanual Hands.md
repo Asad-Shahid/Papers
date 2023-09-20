@@ -2,7 +2,7 @@
 
 - Learn a policy to through and catch objects using MAPPO with each hand being one agent.
 - Domain randomization to randomize friction, inertia, contact force center of mass, etc.
-- 
+
 ### Novel Contribution
 - Despite the thrower being able to throw towards a pre-defined destination in simulation, the policy would not transfer well due to a substantial dynamics gap.
 - To deal with the above issue, a 3-stage training procedure is proposed:
