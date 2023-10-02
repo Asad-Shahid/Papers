@@ -18,8 +18,11 @@ Scale 1 - 5
 - [R3M: A Universal Visual Representation for Robot Manipulation](https://arxiv.org/pdf/2203.12601.pdf) CoRL, 2022 (2)
 - [Real-World Robot Learning with Masked Visual Pre-training](https://arxiv.org/pdf/2210.03109.pdf) CoRL, 2022 (2)
 
-## Sim-to-Real
-- [Iterative Residual Policy for Goal-Conditioned Dynamic Manipulation of Deformable Objects](https://irp.cs.columbia.edu/) RSS, 2022 (2) 
+## Sim-Real
+- [Iterative Residual Policy for Goal-Conditioned Dynamic Manipulation of Deformable Objects](https://irp.cs.columbia.edu/) RSS, 2022 (2)
+- [Sim-and-Real Reinforcement Learning for Manipulation: A Consensus-based Approach](https://arxiv.org/pdf/2302.13423.pdf) ICRA, 2023 (2)
+
+
 #### Multi-Agent RL
 - [Dynamic Handover: Throw and Catch with Bimanual Hands](https://binghao-huang.github.io/dynamic_handover/) CoRL, 2023 (4) [[notes](https://github.com/Asad-Shahid/Papers/blob/main/Notes/Dynamic%20Handover%3A%20Throw%20and%20Catch%20with%20Bimanual%20Hands.md)]
 
