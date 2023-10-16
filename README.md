@@ -19,6 +19,7 @@ Scale 1 - 5
 - [Real-World Robot Learning with Masked Visual Pre-training](https://arxiv.org/pdf/2210.03109.pdf) CoRL, 2022 (2)
 
 ## Sim-Real
+- [Closing the Sim-to-Real Loop: Adapting Simulation Randomization with Real World Experience](https://sites.google.com/view/simopt) ICRA, 2019 (0)
 - [Sim-to-Real Transfer for Robotic Manipulation with Tactile Sensory](https://arxiv.org/pdf/2103.00410.pdf) IROS, 2021 (2)
 - [Iterative Residual Policy for Goal-Conditioned Dynamic Manipulation of Deformable Objects](https://irp.cs.columbia.edu/) RSS, 2022 (2)
 - [Sim-and-Real Reinforcement Learning for Manipulation: A Consensus-based Approach](https://arxiv.org/pdf/2302.13423.pdf) ICRA, 2023 (2)
