@@ -24,8 +24,11 @@ Scale 1 - 5
 - [Iterative Residual Policy for Goal-Conditioned Dynamic Manipulation of Deformable Objects](https://irp.cs.columbia.edu/) RSS, 2022 (2)
 - [Sim-and-Real Reinforcement Learning for Manipulation: A Consensus-based Approach](https://arxiv.org/pdf/2302.13423.pdf) ICRA, 2023 (2)
 
+## Rew Shaping
+- [Words into Action: Learning Diverse Humanoid Robot Behaviors using Language Guided Iterative Motion Refinement](https://arxiv.org/pdf/2310.06226.pdf) arxiv, 2023 (0)
+- [Eureka: Human-Level Reward Design via Coding Large Language Models](https://eureka-research.github.io/) arxiv, 2023 (0)
 
-#### Multi-Agent RL
+## Multi-Agent RL
 - [Dynamic Handover: Throw and Catch with Bimanual Hands](https://binghao-huang.github.io/dynamic_handover/) CoRL, 2023 (4) [[notes](https://github.com/Asad-Shahid/Papers/blob/main/Notes/Dynamic%20Handover%3A%20Throw%20and%20Catch%20with%20Bimanual%20Hands.md)]
 
 ## Sub-section
