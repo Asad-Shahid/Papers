@@ -10,7 +10,7 @@
 - Experiments: Test on a different nominal position of the target, rotated 45 degrees
 
 ### Contribution
-- Large-scale evaluation of RL on industrial insertion task.
+- Large-scale evaluation of RL on industrial insertion tasks.
 - Few modifications to original DDPGfD:
     - remove the independent Gaussian noise added to the actor network.
     - The replay buffer retains all experience data and all transitions are weighted equally (no prioritization), actions from the human operator are regarded as the agent’s own.
