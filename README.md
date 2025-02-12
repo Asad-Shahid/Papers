@@ -10,6 +10,10 @@ Scale 1 - 5
 
 # Section
 
+## Human in Loop RL 
+- [Robust Multi-Modal Policies for Industrial Assembly via Reinforcement Learning and Demonstrations: A Large-Scale Study](https://arxiv.org/pdf/2212.03858.pdf) RSS, 2021 (5) [[notes](https://github.com/Asad-Shahid/Papers/blob/main/Notes/Robust%20Multi-Modal%20Policies%20for%20Industrial%20Assembly%20via%20Reinforcement%20Learning%20and%20Demonstrations:%20A%20Large-Scale%20Study.md)]
+
+
 ## Multiple modalities (sensor fusion) 
 - [See, Hear, and Feel: Smart Sensory Fusion for Robotic Manipulation](https://arxiv.org/pdf/2212.03858.pdf) CoRL, 2022 (3) [[notes](https://github.com/Asad-Shahid/Papers/blob/main/Notes/Smart%20Sensory%20Fusion%20for%20Robotic%20Manipulation.md)]
 
