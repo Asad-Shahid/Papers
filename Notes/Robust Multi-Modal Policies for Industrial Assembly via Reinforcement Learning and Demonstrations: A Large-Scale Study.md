@@ -16,4 +16,4 @@
     - The replay buffer retains all experience data and all transitions are weighted equally (no prioritization), actions from the human operator are regarded as the agent’s own.
     - Task and action space curriculum to gradually increase the difficulty level of learning.
     - Initially action space is quite small, but is grown exponentially (up to a maximum) as the agent policy becomes more reliable.
-    - On to override the agent’s actions if it is not performing well, thus performing on-policy correction
+    - On-policy correction to override the agent’s actions if it is not performing well.
