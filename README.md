@@ -13,6 +13,9 @@ Scale 1 - 5
 ## Human in Loop RL 
 - [Robust Multi-Modal Policies for Industrial Assembly via Reinforcement Learning and Demonstrations: A Large-Scale Study](https://arxiv.org/pdf/2103.11512) RSS, 2021 (5) [[notes](https://github.com/Asad-Shahid/Papers/blob/main/Notes/Robust%20Multi-Modal%20Policies%20for%20Industrial%20Assembly%20via%20Reinforcement%20Learning%20and%20Demonstrations:%20A%20Large-Scale%20Study.md)]
 
+## Humanoid Learning 
+- [OKAMI: Teaching Humanoid Robots Manipulation Skills through Single Video Imitation](https://ut-austin-rpl.github.io/OKAMI/) CoRL, 2024 (2) [[notes](https://github.com/Asad-Shahid/Papers/blob/main/Notes/OKAMI%3A%20Teaching%20Humanoid%20Robots%20Manipulation%20Skills%20through%20Single%20Video%20Imitation)]
+
 
 ## Multi-Modality
 - [See, Hear, and Feel: Smart Sensory Fusion for Robotic Manipulation](https://arxiv.org/pdf/2212.03858.pdf) CoRL, 2022 (3) [[notes](https://github.com/Asad-Shahid/Papers/blob/main/Notes/Smart%20Sensory%20Fusion%20for%20Robotic%20Manipulation.md)]
