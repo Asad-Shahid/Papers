@@ -14,6 +14,7 @@ Scale 1 - 5
 - [Robust Multi-Modal Policies for Industrial Assembly via Reinforcement Learning and Demonstrations: A Large-Scale Study](https://arxiv.org/pdf/2103.11512) RSS, 2021 (5) [[notes](https://github.com/Asad-Shahid/Papers/blob/main/Notes/Robust%20Multi-Modal%20Policies%20for%20Industrial%20Assembly%20via%20Reinforcement%20Learning%20and%20Demonstrations:%20A%20Large-Scale%20Study.md)]
 
 ## Humanoid Learning 
+- [Learning Getting-Up Policies for Real-World Humanoid Robots](https://humanoid-getup.github.io/) RSS, 2025 (4) [[notes](https://github.com/Asad-Shahid/Papers/blob/main/Notes/Learning%20Getting-Up%20Policies%20for%20Real-World%20Humanoid%20Robots.md)]
 - [HoST: Learning Humanoid Standing-up Control across Diverse Postures](https://taohuang13.github.io/humanoid-standingup.github.io/) pre-print, 2025 (0)
 - [HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit](https://homietele.github.io/) pre-print, 2025 (0)
 - [BeamDojo: Learning Agile Humanoid Locomotion on Sparse Footholds](https://why618188.github.io/beamdojo/static/BeamDojo.pdf) pre-print, 2025 (0) [[notes](https://github.com/Asad-Shahid/Papers/blob/main/Notes/BeamDojo%3A%20Learning%20Agile%20Humanoid%20Locomotion%20on%20Sparse%20Footholds.md)]
